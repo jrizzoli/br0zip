@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Br0Zip</string>
+
+    <string name="welcome_sucky">Br0Zip, teh best ROM development tool evar compiled on the face of the hearth, is nao available on yer device. Build ROMS as pro devs do. Br0Zippers from all teh world will enjoy Br0Zip\'s brand new <b>SmartBr0ZipperEngine</b>, a revolutionary ROM \'n kernal development AI-based tool. Check all the things out!\n\nBr0Zip and SmartBr0ZipperEngine &#169; 2017 are registered LingeageInc trademarks</string>
+
+    <string name="perms_message">Can\'t access teh storage\u2026</string>
+    <string name="perms_dialog_title">Gimme teh permissionz!</string>
+    <string name="perms_dialog_message">Br0Zip cannot be executed without storage access. Why would you deny storage access permission to a file manager?</string>
+    <string name="perms_dialog_again">Ask again</string>
+    <string name="dismiss">Shut up</string>
+
+    <string name="about">Info</string>
+    <string name="license_title">Please purchase Br0Zip license</string>
+    <string name="license_message">Please note that Br0Zip free software is <strike>not</strike>. After a 40 day trial period ya must either buy a license or remove it from yer fone.</string>
+    <string name="license_buy">Buy online</string>
+    <string name="license_fuck">Halp</string>
+
+    <string name="archive_title">Archive</string>
+    <string name="archive_error">Hey Br0, thiz iCon is uzeless, devs added it with no reason. So bad</string>
+
+    <string name="builder_welcome_title">Br0Zip for ROM Builders</string>
+    <string name="builder_welcome_message">Welcome to teh Br0Zip ROM builder. Ya\'ll be able to create your optimized ROM beginning from a pre-existent zip or img uzing the <b>SmartBr0ZipperEngine</b>. Sounds cool? It is! Go and check out teh awesome capabilities for ROM building!</string>
+    <string name="builder_welcome_ok">My body is ready!</string>
+    <string name="builder_welcome_nope">Nope</string>
+    <string name="activity_builder">ROM Builder</string>
+
+    <string name="snack_unable_open_file">SmartBr0Zipper said this file is not a ROM</string>
+
+    <string name="builder_hardware">Hardware featurez</string>
+    <string name="builder_software">Softwar</string>
+    <string name="builder_optimize">Optimizations</string>
+    <string name="build_hw_boot">Boot</string>
+    <string name="build_hw_phone_calls">Calls</string>
+    <string name="build_hw_lte">LTE</string>
+    <string name="build_hw_volte">VoLTE</string>
+    <string name="build_hw_dsim">Dual SIM</string>
+    <string name="build_hw_wifi">WiFi</string>
+    <string name="build_hw_bluetooth">Bluetooth</string>
+    <string name="build_hw_camera">Camera</string>
+    <string name="build_hw_torch">Torch</string>
+    <string name="build_hw_audio">Audio</string>
+    <string name="build_hw_nfc">NFC</string>
+    <string name="build_hw_fp">Fingerprint</string>
+    <string name="build_sw_android_version">Android version</string>
+    <string name="build_sw_phone_model">Phone model</string>
+    <string name="sw_battery_drain">No battery drain</string>
+    <string name="sw_ram_improvements">Low ram usage</string>
+    <string name="sw_loud_audio">Loud audio</string>
+    <string name="sw_audio_enhancements">Magic audio enhancements</string>
+    <string name="sw_safetynet_hax">SafetyNet bypass</string>
+    <string name="sw_toolchain">Improved toolchain</string>
+
+    <string name="featurez">Featurez</string>
+    <string name="sw_stable">Stable</string>
+    <string name="sw_butter">Smooth as butter</string>
+    <string name="sw_quickcharge">QuickCharge</string>
+    <string name="sw_root">Root access</string>
+    <string name="sw_themes">Themes</string>
+    <string name="sw_tiles">Moar tiles</string>
+    <string name="sw_dt2w">Double tap to wake</string>
+    <string name="sw_ambient">Ambient display</string>
+    <string name="sw_keys">Key remapper</string>
+    <string name="sw_livedisplay">LiveDisplay</string>
+    <string name="sw_protectedapps">Protected apps</string>
+
+    <string name="builder_bug_title">Wild bug appears!</string>
+    <string name="builder_bug_message">Br0Zip detected a bug in teh ROM. Worry do not, <b>SmartBr0ZipperEngine</b> can make that bug fly away from yer ROM. Do ya want to fix all teh bugz?</string>
+    <string name="builder_bug_ok">FixIt</string>
+
+    <string name="builder_error">Define a valid android version</string>
+    <string name="builder_building">Preppin\' all the thingz!</string>
+    <string name="builder_building_pt2">Workin\' so damn hard\u2026</string>
+    <string name="builder_done">Whooah, ya did it! Teh build is ready to be flashed! Yer a <b>talented developer</b> now!</string>
+    <string name="builder_ok">Awesomeish</string>
+    <string name="builder_share">They must know</string>
+    <string name="share_message">Hey, do ya know I\'m a talented developer now? I\'ve just created my awesome ROM using LineageOS\' Br0zip. Ya must check it out: http://lineageos.org !!</string>
+
+    <string-array name="android_versions">
+        <item>7.1</item>
+        <item>7.0</item>
+        <item>6.0</item>
+        <item>5.1</item>
+        <item>5.0</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.1</item>
+        <item>4.0</item>
+        <item>2.3</item>
+    </string-array>
+
+    <string name="activity_about">About</string>
+    <string name="about_team_title">About us</string>
+    <string name="about_tips_title">Tips from the team</string>
+    <string name="about_doctor_title">Doctor tip</string>
+    <string name="about_doctor_summary">Don\'t listen to Dr Kmobs. He is a real doctor, but that is not a thermometer</string>
+    <string-array name="about_team">
+        <item>Brinly, at his too young of age, has won more vulnerability bounties than Isaac Newton had created motion laws</item>
+        <item>Decad3nce: \'More tequila please\'</item>
+        <item>Decad3nce: \'Oh god, not tequila\'</item>
+        <item>Decad3nce: jaded since he started working at inc</item>
+        <item>Mikeioannina can only be translated in 14 languages, otherwise we have to gc gerrit</item>
+        <item>Rashed: Works 100\u0025, except those 9 of 10 features</item>
+        <item>Senyor doesn\'t speak spanish, but he does speak margaritas</item>
+        <item>Shareef is to telephony what giuliani is to cyber</item>
+        <item>Steve had force push, then we forked</item>
+        <item>Code not complex enough? Add a layer of jruesga</item>
+        <item>Development Process of Rashed: 1. Find bug 2. Get blocked by arcee 3. Attempt to ask invisiblek for help 4. ??? 5. panel.sh</item>
+        <item>For 100\u0025 Minnesotan, add baijiu to invisiblek</item>
+        <item>For \'white guy dancing\' add decad3nce and broncos</item>
+        <item>For over inflated ego, apply one maniac103 code review</item>
+        <item>Mama ciwrl knows best. Presents a choice, but decides for you anyway</item>
+        <item>Some people say arcee is older than the known universe. But we don\'t have the tools or the scotch to carbon date him</item>
+        <item>Some people say that psychoi3oy caught a fly with chopsticks, but no one has seen the JIRA ticket for it</item>
+        <item>That\'s not a squatting unicorn, that\'s a squatting roman!</item>
+        <item>There has to be something about a cyanogen force push</item>
+        <item>Want to see eventual collapse of society? Offset a pixel for kover and asher</item>
+        <item>We tried to butter toastcfh and drop him to see if he landed right side up, but all we got was wimax</item>
+        <item>When nothing is broken, revamp it with some jrizzoli</item>
+    </string-array>
+    <string-array name="about_tips">
+        <item>Ballmer Peak: Optimal coding ability takes place between a BAC of .129 and .138</item>
+        <item>GUYS, GUYS, 0 times 0 is ALWAYS 0</item>
+        <item>Always catproof your electronics, cats are bound to pee on them</item>
+        <item>Can\'t stop won\'t stop</item>
+        <item>Don\'t forget to keep your winzip up to date</item>
+        <item>Sorry, boss had a question. Now i can get back to work</item>
+        <item>Shipit and buy donuts later</item>
+        <item>Gotta hax that</item>
+        <item>It got shamrock\'ed</item>
+        <item>Upgraded my winzip br0. Thanks to my patient lady putting up with my devvin.</item>
+        <item>Oh, and by the way: Ceci n\'est pas une trombone, I am an Android</item>
+        <item>Rules: the only rule: You dont ask for ETAs</item>
+        <item>Log.d(\"OHAI\", message);</item>
+    </string-array>
+
+</resources>

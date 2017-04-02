@@ -1,0 +1,173 @@
+<root>
+    <item name='android.support.transition.Transition android.support.transition.Transition excludeChildren(java.lang.Class, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionManager void go(android.support.transition.Scene) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionManager void setTransition(android.support.transition.Scene, android.support.transition.Scene, android.support.transition.Transition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.ChangeBounds void captureEndValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.transition.Transition void captureEndValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.transition.TransitionSet android.support.transition.TransitionSet addTransition(android.support.transition.Transition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition excludeChildren(android.view.View, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition setStartDelay(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition removeTarget(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition excludeTarget(int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionSet void captureStartValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.transition.TransitionManager void go(android.support.transition.Scene, android.support.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Transition void captureStartValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition removeListener(android.support.transition.Transition.TransitionListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition removeTarget(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionManager void setTransition(android.support.transition.Scene, android.support.transition.Scene, android.support.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionPort.TransitionListenerAdapter void onTransitionEnd(android.support.transition.TransitionPort) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.transition.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Scene android.support.transition.Scene getSceneForLayout(android.view.ViewGroup, int, android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Scene android.support.transition.Scene getSceneForLayout(android.view.ViewGroup, int, android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition addTarget(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Fade void captureEndValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition excludeTarget(android.view.View, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition addListener(android.support.transition.Transition.TransitionListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionManager void transitionTo(android.support.transition.Scene) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionManager void setTransition(android.support.transition.Scene, android.support.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionValues values'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionSet android.support.transition.TransitionSet removeTransition(android.support.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionSet void captureEndValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.transition.Visibility void captureEndValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition excludeTarget(java.lang.Class, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition addTarget(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionSet android.support.transition.TransitionSet setOrdering(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.ChangeBounds void captureStartValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition setDuration(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionPort.TransitionListener void onTransitionEnd(android.support.transition.TransitionPort) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.transition.TransitionSet android.support.transition.TransitionSet removeTransition(android.support.transition.Transition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition setInterpolator(android.animation.TimeInterpolator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.TransitionSet android.support.transition.TransitionSet addTransition(android.support.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Fade void captureStartValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.transition.Transition android.support.transition.Transition excludeChildren(int, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.transition.Visibility void captureStartValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

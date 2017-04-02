@@ -1,0 +1,11 @@
+<root>
+    <item name='android.support.graphics.drawable.AnimatedVectorDrawableCompat android.support.graphics.drawable.AnimatedVectorDrawableCompat createFromXmlInner(android.content.Context, android.content.res.Resources, org.xmlpull.v1.XmlPullParser, android.util.AttributeSet, android.content.res.Resources.Theme)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.graphics.drawable.AnimatedVectorDrawableCompat android.support.graphics.drawable.AnimatedVectorDrawableCompat create(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.graphics.drawable.AnimatedVectorDrawableCompat android.graphics.drawable.Drawable mutate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

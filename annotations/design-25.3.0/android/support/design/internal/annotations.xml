@@ -1,0 +1,71 @@
+<root>
+    <item name='android.support.design.internal.ScrimInsetsFrameLayout ScrimInsetsFrameLayout(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.ForegroundLinearLayout ForegroundLinearLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.NavigationMenuPresenter void initForMenu(android.content.Context, android.support.v7.view.menu.MenuBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.ScrimInsetsFrameLayout void onInsetsChanged(android.support.v4.view.WindowInsetsCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.design.internal.NavigationMenuItemView void initialize(android.support.v7.view.menu.MenuItemImpl, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.SnackbarContentLayout SnackbarContentLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.ParcelableSparseArray void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.ScrimInsetsFrameLayout ScrimInsetsFrameLayout(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.SnackbarContentLayout SnackbarContentLayout(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.NavigationMenuItemView NavigationMenuItemView(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.BottomNavigationPresenter android.os.Parcelable onSaveInstanceState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.ForegroundLinearLayout ForegroundLinearLayout(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.NavigationMenuItemView NavigationMenuItemView(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.NavigationMenu android.view.SubMenu addSubMenu(int, int, int, java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.ParcelableSparseArray ParcelableSparseArray(android.os.Parcel, java.lang.ClassLoader) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.BottomNavigationItemView void initialize(android.support.v7.view.menu.MenuItemImpl, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.NavigationMenuPresenter void dispatchApplyWindowInsets(android.support.v4.view.WindowInsetsCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.ForegroundLinearLayout ForegroundLinearLayout(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.ScrimInsetsFrameLayout ScrimInsetsFrameLayout(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.TextScale void captureStartValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.NavigationMenuItemView NavigationMenuItemView(android.content.Context, android.util.AttributeSet, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.design.internal.TextScale void captureEndValues(android.support.transition.TransitionValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

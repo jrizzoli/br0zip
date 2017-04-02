@@ -1,0 +1,236 @@
+<root>
+    <item name='android.support.v4.view.PointerIconCompat android.support.v4.view.PointerIconCompat load(android.content.res.Resources, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat scaleX(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat setListener(android.support.v4.view.ViewPropertyAnimatorListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.PointerIconCompat android.support.v4.view.PointerIconCompat create(android.graphics.Bitmap, float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.PointerIconCompat android.support.v4.view.PointerIconCompat getSystemIcon(android.content.Context, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat translationY(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat scaleY(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat withEndAction(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.MotionEventCompat int getActionIndex(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat rotationYBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat z(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorListenerAdapter void onAnimationCancel(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.AccessibilityDelegateCompatIcs.AccessibilityDelegateBridge boolean onRequestSendAccessibilityEvent(android.view.ViewGroup, android.view.View, android.view.accessibility.AccessibilityEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat alphaBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat setStartDelay(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewCompat boolean isOpaque(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.MotionEventCompat int getSource(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat withLayer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewCompat int getOverScrollMode(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat y(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorListener void onAnimationCancel(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat translationZ(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat xBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.KeyEventCompat boolean hasNoModifiers(android.view.KeyEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat yBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorListenerAdapter void onAnimationStart(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.AccessibilityDelegateCompatJellyBean.AccessibilityDelegateBridgeJellyBean void onPopulateAccessibilityEvent(android.view.View, android.view.accessibility.AccessibilityEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.ViewConfigurationCompat int getScaledPagingTouchSlop(android.view.ViewConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat rotationXBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.KeyEventCompat boolean isTracking(android.view.KeyEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat translationX(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat translationYBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorListener void onAnimationStart(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.MotionEventCompat float getX(android.view.MotionEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.AccessibilityDelegateCompatIcs.AccessibilityDelegateBridge void onPopulateAccessibilityEvent(android.view.View, android.view.accessibility.AccessibilityEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat rotationY(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.KeyEventCompat void startTracking(android.view.KeyEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.MotionEventCompat float getY(android.view.MotionEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat withStartAction(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.MotionEventCompat int findPointerIndex(android.view.MotionEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat zBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.MotionEventCompat int getPointerCount(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.AccessibilityDelegateCompatJellyBean.AccessibilityDelegateBridgeJellyBean void onInitializeAccessibilityEvent(android.view.View, android.view.accessibility.AccessibilityEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat alpha(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.MotionEventCompat int getPointerId(android.view.MotionEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat rotationX(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat translationXBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewCompat void setOverScrollMode(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat scaleYBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat rotationBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.KeyEventCompat java.lang.Object getKeyDispatcherState(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat setUpdateListener(android.support.v4.view.ViewPropertyAnimatorUpdateListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.KeyEventCompat boolean dispatch(android.view.KeyEvent, android.view.KeyEvent.Callback, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat setDuration(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat rotation(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.KeyEventCompat boolean hasModifiers(android.view.KeyEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat setInterpolator(android.view.animation.Interpolator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.AccessibilityDelegateCompatJellyBean.AccessibilityDelegateBridgeJellyBean java.lang.Object getAccessibilityNodeProvider(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat scaleXBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat translationZBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.ViewPropertyAnimatorCompat android.support.v4.view.ViewPropertyAnimatorCompat x(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.AccessibilityDelegateCompatJellyBean.AccessibilityDelegateBridgeJellyBean boolean onRequestSendAccessibilityEvent(android.view.ViewGroup, android.view.View, android.view.accessibility.AccessibilityEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.AccessibilityDelegateCompatIcs.AccessibilityDelegateBridge void onInitializeAccessibilityEvent(android.view.View, android.view.accessibility.AccessibilityEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.MotionEventCompat int getActionMasked(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.view.AccessibilityDelegateCompatJellyBean.AccessibilityDelegateBridgeJellyBean boolean performAccessibilityAction(android.view.View, int, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='android.support.v4.view.MotionEventCompat boolean isFromSource(android.view.MotionEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

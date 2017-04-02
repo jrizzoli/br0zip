@@ -1,0 +1,29 @@
+<root>
+    <item name='android.support.v4.text.util.LinkifyCompat void addLinks(android.widget.TextView, java.util.regex.Pattern, java.lang.String, java.lang.String[], android.text.util.Linkify.MatchFilter, android.text.util.Linkify.TransformFilter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.util.LinkifyCompat boolean addLinks(android.text.Spannable, java.util.regex.Pattern, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.util.LinkifyCompat void addLinks(android.widget.TextView, java.util.regex.Pattern, java.lang.String, java.lang.String[], android.text.util.Linkify.MatchFilter, android.text.util.Linkify.TransformFilter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.util.LinkifyCompat void addLinks(android.widget.TextView, java.util.regex.Pattern, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.util.LinkifyCompat boolean addLinks(android.text.Spannable, java.util.regex.Pattern, java.lang.String, android.text.util.Linkify.MatchFilter, android.text.util.Linkify.TransformFilter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.util.LinkifyCompat void addLinks(android.widget.TextView, java.util.regex.Pattern, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.util.LinkifyCompat boolean addLinks(android.text.Spannable, java.util.regex.Pattern, java.lang.String, java.lang.String[], android.text.util.Linkify.MatchFilter, android.text.util.Linkify.TransformFilter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.util.LinkifyCompat void addLinks(android.widget.TextView, java.util.regex.Pattern, java.lang.String, android.text.util.Linkify.MatchFilter, android.text.util.Linkify.TransformFilter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.util.LinkifyCompat void addLinks(android.widget.TextView, java.util.regex.Pattern, java.lang.String, android.text.util.Linkify.MatchFilter, android.text.util.Linkify.TransformFilter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

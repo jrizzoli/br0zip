@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#167B80</color>
+    <color name="colorPrimaryDark">#105B5E</color>
+    <color name="colorAccent">#FF9100</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#333333</color>
+    <color name="grey">#bababa</color>
+
+    <color name="folder">#3F51B5</color>
+    <color name="file">#8BC34A</color>
+    <color name="zip">#EF5350</color>
+</resources>

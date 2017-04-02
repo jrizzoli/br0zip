@@ -1,0 +1,26 @@
+<root>
+    <item name='android.support.v4.text.BidiFormatter boolean isRtl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.BidiFormatter android.support.v4.text.BidiFormatter getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.BidiFormatter android.support.v4.text.BidiFormatter getInstance(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.BidiFormatter boolean isRtl(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.BidiFormatter.Builder android.support.v4.text.BidiFormatter build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.BidiFormatter.Builder android.support.v4.text.BidiFormatter.Builder setTextDirectionHeuristic(android.support.v4.text.TextDirectionHeuristicCompat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.BidiFormatter.Builder android.support.v4.text.BidiFormatter.Builder stereoReset(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.text.BidiFormatter android.support.v4.text.BidiFormatter getInstance(java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

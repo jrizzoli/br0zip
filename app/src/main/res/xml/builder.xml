@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/builder_hardware">
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/build_hw_boot" />
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/build_hw_phone_calls" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/build_hw_dsim" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/build_hw_lte" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/build_hw_volte" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/build_hw_wifi" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/build_hw_bluetooth" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/build_hw_camera" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/build_hw_torch" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/build_hw_audio" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/build_hw_nfc" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/build_hw_fp" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/featurez">
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/sw_quickcharge" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/sw_root" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/sw_themes" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/sw_tiles" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/sw_dt2w" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/sw_ambient" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/sw_keys" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/sw_livedisplay" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/sw_protectedapps" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/builder_software">
+
+        <ListPreference
+            android:key="android_version"
+            android:entries="@array/android_versions"
+            android:entryValues="@array/android_versions"
+            android:summary="%s"
+            android:title="@string/build_sw_android_version" />
+
+        <EditTextPreference
+            android:key="phone_model"
+            android:title="@string/build_sw_phone_model" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/sw_battery_drain" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/sw_butter" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/sw_stable" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/sw_ram_improvements" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/sw_toolchain" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/sw_loud_audio" />
+
+        <SwitchPreference
+            android:defaultValue="0"
+            android:title="@string/sw_audio_enhancements" />
+
+        <SwitchPreference
+            android:defaultValue="1"
+            android:title="@string/sw_safetynet_hax" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

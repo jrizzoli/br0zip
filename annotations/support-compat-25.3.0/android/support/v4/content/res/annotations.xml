@@ -1,0 +1,14 @@
+<root>
+    <item name='android.support.v4.content.res.ResourcesCompat android.content.res.ColorStateList getColorStateList(android.content.res.Resources, int, android.content.res.Resources.Theme) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.content.res.ResourcesCompat int getColor(android.content.res.Resources, int, android.content.res.Resources.Theme) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.content.res.ResourcesCompat android.graphics.drawable.Drawable getDrawable(android.content.res.Resources, int, android.content.res.Resources.Theme) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.content.res.ResourcesCompat android.graphics.drawable.Drawable getDrawableForDensity(android.content.res.Resources, int, int, android.content.res.Resources.Theme) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

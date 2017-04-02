@@ -1,0 +1,24 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/file" />
+        </shape>
+    </item>
+    <item
+        android:bottom="16dp"
+        android:left="16dp"
+        android:right="16dp"
+        android:top="16dp">
+        <vector
+            android:width="24dp"
+            android:height="24dp"
+            android:viewportHeight="24"
+            android:viewportWidth="24"
+            tools:targetApi="lollipop">
+            <path
+                android:fillColor="@color/white"
+                android:pathData="M13,9V3.5L18.5,9M6,2C4.89,2 4,2.89 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2H6Z" />
+        </vector>
+    </item>
+</layer-list>
